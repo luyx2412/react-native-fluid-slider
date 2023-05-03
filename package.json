@@ -20,8 +20,9 @@
   "bugs": {
     "url": "https://github.com/openGeeksLab/react-native-fluid-slider/issues"
   },
- "homepage": "https://github.com/openGeeksLab/react-native-fluid-slider/#README.md",
- "dependencies": {
+  "homepage": "https://github.com/openGeeksLab/react-native-fluid-slider/#README.md",
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0",
     "prop-types": "^15.6.2"
   }
 }
